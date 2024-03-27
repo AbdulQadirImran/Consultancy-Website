@@ -9,6 +9,3 @@ Consultancy Web is your one-stop destination for expert advice, tailored solutio
 🚀 Elevate your projects, streamline your processes, and unlock your full potential with the help of our seasoned consultants.
 
 Join Consultancy Web today and embark on a journey towards excellence!
-
-Website link 🌐︎
-https://akhasan.netlify.app
